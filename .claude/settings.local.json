@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker compose:*)",
+      "Bash(rm -rf \"Ejecutar-servidor-web-Nginx-con-Docker\" && git add -A && git status)"
+    ]
+  }
+}
